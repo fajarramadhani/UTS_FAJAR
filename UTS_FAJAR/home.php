@@ -1,0 +1,11 @@
+<div class="jumbotron">
+    <h1 class="display-4">Welcome To My Website</h1>
+    <p class="lead">Perkenalkan Nama Saya Muhammad Fajar Ramadhani</p>
+    <p class="lead">TI-01</p>
+    <p class="lead">0110219003</p>
+    <hr class="my-4">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas suscipit risus sit amet elit consectetur ullamcorper. Cras dictum augue nunc, sed convallis sapien accumsan quis. Proin pulvinar enim a pretium volutpat. Ut sit amet urna commodo, aliquam justo ut, auctor turpis. Duis imperdiet neque eu felis viverra rhoncus. Vestibulum laoreet ultricies magna, eu laoreet purus pharetra id. Phasellus eu elit odio.</p>
+    <p>Nam vitae eros nec sem ornare convallis. In dictum lectus eget lobortis pulvinar. Mauris porta tortor a faucibus condimentum. Maecenas rhoncus metus commodo porttitor pretium. Phasellus at luctus dolor. Quisque nec aliquet sapien, eu dictum velit. Quisque euismod imperdiet sem, quis tincidunt tortor efficitur sit amet. Integer elit mauris, vestibulum a ultrices a, rutrum sit amet arcu. Etiam in justo non leo faucibus eleifend.</p>
+    <p>Nullam velit magna, ullamcorper non placerat et, fringilla at nunc. Integer ultricies vel purus id fringilla. Curabitur venenatis ornare luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin erat eros, iaculis ac iaculis sit amet, blandit quis nisi. In ultricies, elit eget hendrerit tempor, libero tellus elementum odio, quis sagittis ex nisl varius urna. Donec id purus urna. Duis maximus, augue ut aliquam vehicula, risus leo feugiat elit, a dignissim neque dui ac metus. Nunc id magna vitae magna gravida vehicula sed in lacus. Vestibulum libero elit, sodales et venenatis in, convallis eu diam. Nulla rhoncus nunc odio, facilisis imperdiet risus dictum et. Proin laoreet maximus nisi at consectetur. Vestibulum condimentum ultrices tortor, condimentum suscipit libero rhoncus fringilla. Etiam sit amet eros nec lacus placerat aliquet. Fusce nibh sapien, mattis at nunc faucibus, auctor maximus purus.</p>
+    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+</div>
